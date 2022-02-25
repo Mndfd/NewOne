@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Repo for WEBD6201-W2022 ICE-7",
   "main": "index.js",
-  "author": "Tom Tsiliopoulos",
+  "author": "Onur Ozkanca",
   "license": "MIT",
   "dependencies": {
     "@fortawesome/fontawesome-free": "^5.15.4",
