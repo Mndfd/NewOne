@@ -1,5 +1,5 @@
 {
-    "users":
+    "users": 
     [
         {
             "DisplayName": "John Smith",
@@ -19,5 +19,6 @@
             "Username": "admin",
             "Password": "123456"
         }
+        
     ]
 }
